@@ -51,13 +51,6 @@ It detects nearby objects, measures distance in centimeters, and displays the re
 4. Distance in cm is printed continuously.
 
 ---
-
-## 📷 Demo Preview
-
-> *(You can add a short GIF or image of working setup here)*
-
----
-
 ## 🛠️ Project Setup
 
 1. Clone this repo into your STM32CubeIDE workspace
